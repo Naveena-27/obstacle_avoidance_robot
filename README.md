@@ -5,8 +5,8 @@ An autonomous obstacle-avoidance robot built on an ESP32, with voice feedback an
 The robot drives forward continuously and uses an HC-SR04 ultrasonic sensor to watch the path ahead. When it detects an obstacle, it stops, reverses slightly, scans both sides with a servo-mounted sensor, compares the two distances, and turns toward whichever side is more open — reacting with a voice clip and a matching OLED expression at each stage.
 
 ## Demo
-![Obstacle Avoidance Robot](./WhatsApp%20Image%202026-09-27%20at%204.20.41%20PM%20(1).jpeg)
-![Obstacle Avoidance Robot Front View](./WhatsApp%20Image%202026-09-27%20at%204.20.41%20PM.jpeg)
+
+![Obstacle Avoidance Robot Chassis View](./obstacle-avoidance-robot-pic1.jpeg)
 ## Features
 
 - Autonomous obstacle detection and avoidance
