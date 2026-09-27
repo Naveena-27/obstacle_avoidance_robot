@@ -6,6 +6,7 @@ The robot drives forward continuously and uses an HC-SR04 ultrasonic sensor to w
 
 ## Demo
 ![Obstacle Avoidance Robot](./WhatsApp%20Image%202026-09-27%20at%204.20.41%20PM%20(1).jpeg)
+![Obstacle Avoidance Robot Front View](./WhatsApp%20Image%202026-09-27%20at%204.20.41%20PM.jpeg)
 ## Features
 
 - Autonomous obstacle detection and avoidance
