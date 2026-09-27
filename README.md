@@ -6,8 +6,8 @@ The robot drives forward continuously and uses an HC-SR04 ultrasonic sensor to w
 
 ## Demo
 <p align="center">
-  <img src="./obstacle-avoidance-robot-pic2.jpeg" alt="Robot Front View" width="300" /> 
-  <img src="./obstacle-avoidance-robot-pic1.jpeg" alt="Robot Chassis View" width="300" />
+  <img src="./obstacle-avoidance-robot-pic2.jpeg" alt="Robot Chassis View" width="250" />
+  <img src="./obstacle-avoidance-robot-pic1.jpeg" alt="Robot Front View" width="250" />
 </p>
 
 ## Features
