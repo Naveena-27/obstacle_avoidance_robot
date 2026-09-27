@@ -6,7 +6,6 @@ The robot drives forward continuously and uses an HC-SR04 ultrasonic sensor to w
 
 ## Demo
 
-
 ## Features
 
 - Autonomous obstacle detection and avoidance
